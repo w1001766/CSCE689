@@ -1,1 +1,3 @@
-# csce689
+---
+permalink: /index.html
+---
